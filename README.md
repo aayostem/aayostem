@@ -1,9 +1,9 @@
 ## Hi there 👋, Thank you for visiting my profile!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janto-pee&label=Profile%20views&color=0e75b6&style=flat" alt="janto-pee" /> </p>
 
-- 🔭 I’m a chef that cook software (Generative AI & LLM).
-- 👯 My production barbeque include Docker, Kubernetes, Helm, Terraform, Ansible, Prometheus, Grafana
-- 🤔 I’m currently learning more on LLM
+- 🔭 Senior software engineer who likes to work remotely.
+- 👯 Experienced engineering mentor (check out my course on Nest, Python, DRF, Go, DevOps, Linux Server and more) 
+- 🤔 Learning more on LLM
 - ⚡ Fun fact: "i love to travel and learn about local culture"
 
 

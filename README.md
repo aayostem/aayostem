@@ -1,5 +1,5 @@
 ## Hi there 👋, Thank you for visiting my profile!!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janto-pee&label=Profile%20views&color=0e75b6&style=flat" alt="janto-pee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayo-python&label=Profile%20views&color=0e75b6&style=flat" alt="aayo-python" /> </p>
 
 - 🔭 Senior software engineer who likes to work remotely.
 - 👯 Experienced engineering mentor (check out my course on Nest, Python, DRF, Go, DevOps, Linux Server and more) 
@@ -36,16 +36,16 @@
 
 ---
 <p align="center">
-<a href="https://github.com/janto-pee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=janto-pee&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janto-pee&layout=compact&langs_count=8&theme=buefy"/>
+<a href="https://github.com/aayo-python">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aayo-python&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayo-python&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
 <!--
-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janto-pee&show_icons=true&locale=en&layout=compact" alt="janto-pee" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janto-pee&show_icons=true&locale=en" alt="janto-pee" /></p>
-**janto-pee/janto-pee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayo-python&show_icons=true&locale=en&layout=compact" alt="aayo-python" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayo-python&show_icons=true&locale=en" alt="aayo-python" /></p>
+**aayo-python/aayo-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/inttter/md-badges
 Here are some ideas to get you started:
 

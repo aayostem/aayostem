@@ -1,10 +1,10 @@
 ## Hi there 👋, Thank you for visiting my profile!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayo-python&label=Profile%20views&color=0e75b6&style=flat" alt="aayo-python" /> </p>
 
-- 🔭 Senior software engineer who likes to work remotely.
-- 👯 Experienced engineering mentor on TAM & ML, Backend, Linux Server and more
-- 🤔 Learning more on LLM
-- ⚡ Fun fact: "i love to travel and learn about local culture"
+- 🔭 Senior software engineer & lover of open source.
+- 👯 Experienced on AI & ML, Backend, Linux Server and more
+- 🤔 Writes Python, Go, Typescript, & SQL
+- ⚡ Likes to work remotely
 
 
 ---

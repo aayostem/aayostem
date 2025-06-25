@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayo-python&label=Profile%20views&color=0e75b6&style=flat" alt="aayo-python" /> </p>
 
 - 🔭 Senior software engineer who likes to work remotely.
-- 👯 Experienced engineering mentor (check out my course on Nest, Python, DRF, Go, DevOps, Linux Server and more) 
+- 👯 Experienced engineering mentor on TAM & ML, Backend, Linux Server and more
 - 🤔 Learning more on LLM
 - ⚡ Fun fact: "i love to travel and learn about local culture"
 

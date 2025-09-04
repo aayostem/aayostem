@@ -1,10 +1,10 @@
 ## Hi there 👋, Thank you for visiting my profile!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayostem&label=Profile%20views&color=0e75b6&style=flat" alt="aayostem" /> </p>
 
-- 🔭 Senior software engineer & lover of open source.
-- 👯 Experienced on AI & ML, Backend, Linux Server and more
-- 🤔 Writes Python, Go, Typescript, & SQL
-- ⚡ Likes to work remotely
+- 🔭 Exploring computer vision for site monitoring and quality control.
+- 👯 Specializing in structural analysis, predictive maintenance, and robotic automation.
+- 🤔 Passionate about bridging the gap between theoretical AI and practical, real-world engineering challenges
+- ⚡ Likes to travel
 
 
 ---

@@ -12,18 +12,14 @@
 ### 🛠 &nbsp;Languages and Tools
 
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-  [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+  ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+  [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)  
-  [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-  [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-  [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
-  [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-  ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
-  ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
   [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
   [![Prometheus](https://img.shields.io/badge/Prometheus-F01F7A?logo=prometheus&logoColor=fff)](#)
@@ -35,12 +31,12 @@
   ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 ---
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/aayostem">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aayostem&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayostem&layout=compact&langs_count=8&theme=buefy"/>
 </a>
-</p>
+</p> -->
 
 <!--
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayostem&show_icons=true&locale=en&layout=compact" alt="aayostem" /></p>

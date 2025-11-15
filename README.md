@@ -1,10 +1,10 @@
-## Hi there 👋, Thank you for visiting my profile!!
+## Welcome 👋,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayostem&label=Profile%20views&color=0e75b6&style=flat" alt="aayostem" /> </p>
 
-- 🔭 Exploring computer vision for site monitoring and quality control.
-- 👯 Specializing in structural analysis, predictive maintenance, and robotic automation.
-- 🤔 Passionate about bridging the gap between theoretical AI and practical, real-world engineering challenges
-- ⚡ Likes to travel
+- 🔭 End-to-End MLOps: Feature stores, model registries, automated pipelines, and serving infrastructure
+- 👯 Kubernetes-Native Architecture: Multi-cloud Terraform, GitOps, service mesh integration
+- 🤔 Model Lifecycle Management: Automated retraining, canary deployments, shadow testing
+- ⚡ Production Monitoring: Multi-modal drift detection, intelligent alerting, auto-remediation
 
 
 ---

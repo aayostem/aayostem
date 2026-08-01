@@ -102,6 +102,12 @@ Five-course portfolio in development:
 4. ML Drift Detection: Drift Sentinel (16h)
 5. Enterprise ML Risk: RiskOracle (18h)
 
+## National Media Contribution
+
+I write about the intersection of platform engineering, SOC2, and FinOps as one unified discipline — not three separate jobs.
+
+- **[ncc regulating 2010 internet for 2026 economy](https://punchng.com/ncc-regulating-2010-internet-for-2026-economy/ )**
+- **[2027 elections and nigerian tech policy](https://punchng.com/2027-elections-and-nigerian-tech-policy/)**
 ---
 
 ## Contact

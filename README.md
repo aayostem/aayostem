@@ -79,11 +79,11 @@ No custom quotes. No lengthy proposals.
 
 ## Open Source
 
-| Repository | What It Contains | Stars |
-|---|---|---|
-| [eks-cost-optimization](https://github.com/aayostem/eks-cost-optimization) | Terraform modules, Karpenter NodePools, VPA manifests, automation scripts | ![Stars](https://img.shields.io/github/stars/aayostem/eks-cost-optimization?style=flat-square&color=F5A623) |
-| [ifa-binary-architecture](https://github.com/aayostem/ifa-binary-architecture) | Ifá binary system implemented as distributed computing architecture | ![Stars](https://img.shields.io/github/stars/aayostem/ifa-binary-architecture?style=flat-square&color=F5A623) |
-| [platform-toolkit](https://github.com/aayostem/platform-toolkit) | Backstage templates, Crossplane compositions, IDP golden paths | ![Stars](https://img.shields.io/github/stars/aayostem/platform-toolkit?style=flat-square&color=F5A623) |
+| Repository | What It Contains |
+|---|---|
+| [eks-cost-optimization](https://github.com/aayostem/eks-cost-optimization) | Terraform modules, Karpenter NodePools, VPA manifests, automation scripts | 
+| [ifa-binary-architecture](https://github.com/aayostem/ifa-binary-architecture) | Ifá binary system implemented as distributed computing architecture |
+| [platform-toolkit](https://github.com/aayostem/platform-toolkit) | Backstage templates, Crossplane compositions, IDP golden paths |
 
 ---
 

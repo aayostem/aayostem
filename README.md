@@ -36,7 +36,7 @@ FinOps Governance           → Unit economics, cost attribution, chargeback
 I take 3–4 sprint engagements per quarter. Fixed scope. Fixed price.
 No custom quotes. No lengthy proposals.
 
-| Sprint | What It Delivers | Timeline |
+| Sprint | What It Delivers | Price | Timeline |
 |---|---|---|---|
 | **Infrastructure Cost Sprint** | AWS audit + 6 core optimisations + automation layer | 60 days |
 | **SOC2 Readiness Sprint** | Engineering controls + evidence collection + auditor package | 90 days |

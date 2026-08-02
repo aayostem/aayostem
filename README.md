@@ -44,7 +44,7 @@ No custom quotes. No lengthy proposals.
 | **Monthly Retainer** | Ongoing FinOps, cost reporting, platform evolution | Rolling |
 
 **Currently accepting clients for Q4 2026.**
-→ [cloudfrugal.com](https://cloudfrugal.com) · ayobami@cloudfrugal.com
+<!-- → [cloudfrugal.com](https://cloudfrugal.com) · ayobami@cloudfrugal.com -->
 
 ---
 

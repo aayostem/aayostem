@@ -81,9 +81,9 @@ No custom quotes. No lengthy proposals.
 
 | Repository | What It Contains |
 |---|---|
-| [eks-cost-optimization](https://github.com/aayostem/eks-cost-optimization) | Terraform modules, Karpenter NodePools, VPA manifests, automation scripts | 
-| [ifa-binary-architecture](https://github.com/aayostem/ifa-binary-architecture) | Ifá binary system implemented as distributed computing architecture |
-| [platform-toolkit](https://github.com/aayostem/platform-toolkit) | Backstage templates, Crossplane compositions, IDP golden paths |
+| [eks-cost-optimization](https://github.com/aayostem/eks-cost-optimization) | Terraform modules, Karpenter NodePools, VPA manifests, automation scripts 
+| [ifa-binary-architecture](https://github.com/aayostem/ifa-binary-architecture) | Ifá binary system implemented as distributed computing architecture 
+| [platform-toolkit](https://github.com/aayostem/platform-toolkit) | Backstage templates, Crossplane compositions, IDP golden paths
 
 ---
 

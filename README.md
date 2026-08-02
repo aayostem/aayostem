@@ -43,7 +43,7 @@ No custom quotes. No lengthy proposals.
 | **Platform Engineering Sprint** | Full IDP: Backstage, ArgoCD, Crossplane, Karpenter | 90 days |
 | **Monthly Retainer** | Ongoing FinOps, cost reporting, platform evolution | Rolling |
 
-**Currently accepting clients for Q4 2026.**
+**Currently accepting clients for this quarter.**
 <!-- → [cloudfrugal.com](https://cloudfrugal.com) · ayobami@cloudfrugal.com -->
 
 ---
